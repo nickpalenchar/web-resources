@@ -12,4 +12,7 @@ A comprehensive list of web development and design resources for all your web de
 
 ## JS Libraries
 + <a href="http://d3.js">D3</a> - Popular Data-Driven Documents.
-+ **$** <a href="http://gojs.net">GoJS</a> - a feature-rich JavaScript library for implementing interactive diagrams across modern web browsers and platforms.
++ _$_ <a href="http://gojs.net">GoJS</a> - a feature-rich JavaScript library for implementing interactive diagrams across modern web browsers and platforms.
+
+## Resources
++ <a href="http://http://open.commonly.cc/">The Open Bundle</a> - Lots of free graphics and sounds for game design.
