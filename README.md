@@ -9,3 +9,7 @@ A comprehensive list of web development and design resources for all your web de
 
 ### Fillers
 + <a href="http://lorempixel.com/">Lorempixel</a> - Generate images of different sizes.
+
+## JS Libraries
++ <a href="http://d3.js">D3</a> - Popular Data-Driven Documents.
++ **$** <a href="http://gojs.net">GoJS</a> - a feature-rich JavaScript library for implementing interactive diagrams across modern web browsers and platforms.
