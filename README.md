@@ -17,5 +17,9 @@ A comprehensive list of web development and design resources for all your web de
 ## Resources
 + <a href="http://http://open.commonly.cc/">The Open Bundle</a> - Lots of free graphics and sounds for game design.
 
-# Education Resources
+## Education Resources
 + <a href="https://github.com/open-source-society/computer-science"> OSS Computer Science</a> - A "path to a free self-taught education in Computer Science!"
+
+### Algorithms
++ <a href="http://bigocheatsheet.com/">Big O Cheat Sheet</a>
++ <a href="http://qiao.github.io/PathFinding.js/visual/">PathFinding.js</a> - Visual path-finding algorithms.
