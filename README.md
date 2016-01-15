@@ -10,7 +10,7 @@ A comprehensive list of web development and design resources for all your web de
 
 ### Fillers
 + <a href="http://lorempixel.com/">Lorempixel</a> - Generate images of different sizes.
-+ <a href="http://fillmurray.com/">Lorempixel</a> - generate Bill Murray image of size fillmurray.com/x/y/
++ <a href="http://fillmurray.com/">Fill Murray</a> - generate Bill Murray image of size fillmurray.com/x/y/
 
 ## JS Libraries
 + <a href="http://d3.js">D3</a> - Popular Data-Driven Documents.
