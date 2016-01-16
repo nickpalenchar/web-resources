@@ -18,7 +18,7 @@ A comprehensive list of web development and design resources for all your web de
 + <a href="https://localtunnel.me">localtunnel</a> - npm module that lets you expose your localhost to the world through a URL it gives you. super simple.
 
 ## Resources
-+ <a href="http://http://open.commonly.cc/">The Open Bundle</a> - Lots of free graphics and sounds for game design.
++ <a href="http://open.commonly.cc/">The Open Bundle</a> - Lots of free graphics and sounds for game design.
 
 ## Education Resources
 + <a href="https://github.com/open-source-society/computer-science"> OSS Computer Science</a> - A "path to a free self-taught education in Computer Science!"
