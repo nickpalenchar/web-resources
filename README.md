@@ -27,3 +27,6 @@ A comprehensive list of web development and design resources for all your web de
 ### Algorithms
 + <a href="http://bigocheatsheet.com/">Big O Cheat Sheet</a>
 + <a href="http://qiao.github.io/PathFinding.js/visual/">PathFinding.js</a> - Visual path-finding algorithms.
+
+## Software Planning
++ <a href="https://cloudcraft.co/">Cloudcraft</a> - Beautiful AWS Diagram drawing.
