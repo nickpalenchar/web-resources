@@ -2,14 +2,14 @@
 A comprehensive list of web development and design resources for all your web development and design needs
 
 ## Design
-### Color Schemes
+#### Color Schemes
 + <a href="http://paletton.com/">paletton.com</a> - Sophisticated Color scheme generator with examples & previews.
 + <a href="http://www.materialui.co/flatuicolors">Flat UI Colors</a>
 + <a href="http://www.flatuicolorpicker.com/">Flat UI Color Picker</a>
 + <a href="http://www.coolors.co/">radical color scheme generator</a>
 + <a href="http://subtlepatterns.com/">Subtle Patterns</a> - Nice subtle background patterns
 
-### Fillers
+#### Fillers
 + <a href="http://lorempixel.com/">Lorempixel</a> - Generate images of different sizes.
 + <a href="http://fillmurray.com/">Fill Murray</a> - generate Bill Murray image of size fillmurray.com/x/y/
 
@@ -22,9 +22,12 @@ A comprehensive list of web development and design resources for all your web de
 ## Resources
 + <a href="http://open.commonly.cc/">The Open Bundle</a> - Lots of free graphics and sounds for game design.
 
-## Education Resources
+#### Education Resources
 + <a href="https://github.com/open-source-society/computer-science"> OSS Computer Science</a> - A "path to a free self-taught education in Computer Science!"
 
 ### Algorithms
 + <a href="http://bigocheatsheet.com/">Big O Cheat Sheet</a>
 + <a href="http://qiao.github.io/PathFinding.js/visual/">PathFinding.js</a> - Visual path-finding algorithms.
+
+## Software Planning
++ <a href="https://cloudcraft.co/">Cloudcraft</a> - Beautiful AWS Diagram drawing.
