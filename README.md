@@ -13,6 +13,8 @@ A comprehensive list of web development and design resources for all your web de
 + <a href="http://lorempixel.com/">Lorempixel</a> - Generate images of different sizes.
 + <a href="http://fillmurray.com/">Fill Murray</a> - generate Bill Murray image of size fillmurray.com/x/y/
 
+#### Typography Combinations
++ <a href='http://femmebot.github.io/google-type/'>femmebot</a> - Beautiful curation of Google Fonts combinations
 ## Dummy Data
 + <a href="https://www.mockaroo.com/">Mockaroo</a> - JSON data generator.
 
