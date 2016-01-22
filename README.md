@@ -13,6 +13,9 @@ A comprehensive list of web development and design resources for all your web de
 + <a href="http://lorempixel.com/">Lorempixel</a> - Generate images of different sizes.
 + <a href="http://fillmurray.com/">Fill Murray</a> - generate Bill Murray image of size fillmurray.com/x/y/
 
+## Dummy Data
++ <a href="https://www.mockaroo.com/">Mockaroo</a> - JSON data generator.
+
 ## JS Libraries
 + <a href="http://d3.js">D3</a> - Popular Data-Driven Documents.
 + _$_ <a href="http://gojs.net">GoJS</a> - a feature-rich JavaScript library for implementing interactive diagrams across modern web browsers and platforms.
