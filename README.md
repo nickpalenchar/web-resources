@@ -29,6 +29,7 @@ A comprehensive list of web development and design resources for all your web de
 
 #### Education Resources
 + <a href="https://github.com/open-source-society/computer-science"> OSS Computer Science</a> - A "path to a free self-taught education in Computer Science!"
++ <a href="#">GoodUI</a> - 75 Good UI Ideas. With simple examples.
 
 ### Algorithms
 + <a href="http://bigocheatsheet.com/">Big O Cheat Sheet</a>
