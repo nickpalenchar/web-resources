@@ -23,6 +23,7 @@ A comprehensive list of web development and design resources for all your web de
 + _$_ <a href="http://gojs.net">GoJS</a> - a feature-rich JavaScript library for implementing interactive diagrams across modern web browsers and platforms.
 + <a href="https://localtunnel.me">localtunnel</a> - npm module that lets you expose your localhost to the world through a URL it gives you. super simple.
 + <a href="https://github.com/nodemailer/nodemailer">nodemailer</a> - npm module for sending email.
++ <a href="https://github.com/expressjs/multer">multer</a> - npm module for easily accessing file data from HTML forms with file uploads
 
 ## Resources
 + <a href="http://open.commonly.cc/">The Open Bundle</a> - Lots of free graphics and sounds for game design.
