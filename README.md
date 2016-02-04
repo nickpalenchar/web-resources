@@ -29,6 +29,7 @@ A comprehensive list of web development and design resources for all your web de
 + <a href="http://open.commonly.cc/">The Open Bundle</a> - Lots of free graphics and sounds for game design.
 
 #### Education Resources
++ <a href="http://www.csfieldguide.org.nz/">CS Field guide</a> - An online interactive resource for high school students learning about computer science. Developed at University of Canterbury in New Zealand.
 + <a href="https://github.com/open-source-society/computer-science"> OSS Computer Science</a> - A "path to a free self-taught education in Computer Science!"
 + <a href="#">GoodUI</a> - 75 Good UI Ideas. With simple examples.
 
