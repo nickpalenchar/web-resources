@@ -6,7 +6,7 @@ A comprehensive list of web development and design resources for all your web de
 + <a href="http://paletton.com/">paletton.com</a> - Sophisticated Color scheme generator with examples & previews.
 + <a href="http://www.materialui.co/flatuicolors">Flat UI Colors</a>
 + <a href="http://www.flatuicolorpicker.com/">Flat UI Color Picker</a>
-+ <a href="http://www.coolors.co/">radical color scheme generator</a>
++ <a href="http://www.coolors.co/">Radical color scheme generator</a> - Randomly generates well-coordinated color patterns.
 + <a href="http://subtlepatterns.com/">Subtle Patterns</a> - Nice subtle background patterns
 
 #### Fillers
